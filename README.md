@@ -1,4 +1,4 @@
-# social-network-app
+# App social network
 plataforma digital que permite aos usuários criar um perfil pessoal, conectar-se com outras pessoas, compartilhar conteúdo como fotos, postar atualizações.
 
 🚧 Aplicativo em construção 🚧
